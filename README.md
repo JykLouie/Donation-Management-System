@@ -11,7 +11,6 @@ This project is a **Donation Management System** designed for shelters to manage
 ## Getting Started
 ### Prerequisites
 - **Java Development Kit (JDK):** version 11 or later
-- **Node.js and npm:** for React frontend
 - **Maven:** for building the backend
 - Any IDE or text editor (e.g., IntelliJ IDEA, Visual Studio Code)
 
