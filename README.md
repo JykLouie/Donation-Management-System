@@ -124,4 +124,6 @@ mvn test
     }
   }
   ```
+### Contact
+**Jiayang Kuang**: jykuang@bu.edu
   
