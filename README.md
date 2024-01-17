@@ -18,8 +18,8 @@ This project is a **Donation Management System** designed for shelters to manage
 ### Installation
 **Clone the Repository:**
 ```sh
-git clone [your-repo-link]
-cd [your-repo-name]
+git clone https://github.com/JykLouie/Donation-Management-System/tree/main
+cd Donation-Management-System/backend/codingQuestionBackend
 ```
 ### Backend Setup
 ```sh
