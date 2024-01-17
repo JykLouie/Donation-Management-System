@@ -19,11 +19,10 @@ This project is a **Donation Management System** designed for shelters to manage
 **Clone the Repository:**
 ```sh
 git clone https://github.com/JykLouie/Donation-Management-System
-cd Donation-Management-System/backend/codingQuestionBackend/src/main/java/com/DAS/codingQuestionBackend
+cd Donation-Management-System/backend/codingQuestionBackend
 ```
 ### Backend Setup
 ```sh
-cd backend
 mvn spring-boot:run
 ```
 
